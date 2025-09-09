@@ -1,8 +1,8 @@
 # Task Manager - Full Stack Application
 
----
-
 ### A modern, responsive task management application built with React frontend and FastAPI backend, featuring MongoDB for data storage. This application allows users to create, edit, delete tasks, and manage comments with a sleek, intuitive interface.
+
+<img width="1914" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/6e02472c-f34b-49ff-962c-754917151dea" />
 
 ---
 
