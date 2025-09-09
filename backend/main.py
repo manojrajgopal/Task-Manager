@@ -16,6 +16,11 @@ app.add_middleware(
 app.include_router(tasks.router)
 app.include_router(comments.router)
 
+@app.get("/", include_in_schema=True)
+@app.head("/")
+async def root():
+    return {"status": "ok", "message": "Task Manager Backend API is running"}
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
