@@ -6,6 +6,13 @@
 
 ---
 
+## ⏰ Live Demo
+
+Check out the live application here:  
+👉 [Task Manager](https://task-manager-yby4.onrender.com/)
+
+---
+
 ## 🚀 Features
 
 ### Core Functionality
